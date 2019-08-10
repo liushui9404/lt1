@@ -1,0 +1,11 @@
+Epoch 0 TRAIN loss=3.7309e-01 acc=1.0000 elapsed=10.7
+Epoch 0 TRAIN loss=3.4234e+00 acc=0.0000 elapsed=28.5
+After Epoch 0: Train acc=0.0000, Val acc=0.0000
+Epoch 1 TRAIN loss=7.4683e-01 acc=1.0000 elapsed=17.3
+After Epoch 1: Train acc=1.0000, Val acc=0.0000
+Epoch 2 TRAIN loss=1.2471e-01 acc=1.0000 elapsed=16.0
+After Epoch 2: Train acc=1.0000, Val acc=0.0000
+Epoch 3 TRAIN loss=5.8673e-03 acc=1.0000 elapsed=9.5
+After Epoch 3: Train acc=0.5000, Val acc=0.0000
+Epoch 4 TRAIN loss=5.9917e-02 acc=1.0000 elapsed=5.5
+After Epoch 4: Train acc=1.0000, Val acc=0.0000
